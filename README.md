@@ -27,19 +27,19 @@ This skill is agent-neutral at its core:
 For Claude Code:
 
 ```bash
-git clone https://github.com/<your-name>/safe-api-performance-auditor.git ~/.claude/skills/safe-api-performance-auditor
+git clone https://github.com/AlpDurak/safe-api-performance-auditor.git ~/.claude/skills/safe-api-performance-auditor
 ```
 
 PowerShell:
 
 ```powershell
-git clone https://github.com/<your-name>/safe-api-performance-auditor.git "$env:USERPROFILE\.claude\skills\safe-api-performance-auditor"
+git clone https://github.com/AlpDurak/safe-api-performance-auditor.git "$env:USERPROFILE\.claude\skills\safe-api-performance-auditor"
 ```
 
 For Codex:
 
 ```bash
-git clone https://github.com/<your-name>/safe-api-performance-auditor.git ~/.agents/skills/safe-api-performance-auditor
+git clone https://github.com/AlpDurak/safe-api-performance-auditor.git ~/.agents/skills/safe-api-performance-auditor
 ```
 
 Older Codex setups may use `~/.codex/skills`.
