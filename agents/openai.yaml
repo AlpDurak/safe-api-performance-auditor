@@ -1,0 +1,7 @@
+interface:
+  display_name: "Safe API Performance Auditor"
+  short_description: "Safe local API performance audits"
+  default_prompt: "Use $safe-api-performance-auditor to benchmark my local API and report bottlenecks without changing code."
+
+policy:
+  allow_implicit_invocation: true
